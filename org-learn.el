@@ -5,7 +5,7 @@
 ;; Author: John Wiegley <johnw at gnu dot org>
 ;; Keywords: outlines, hypermedia, calendar, wp
 ;; Homepage: http://orgmode.org
-;; Version: 6.32trans
+;; Version: 6.32
 ;;
 ;; This file is not part of GNU Emacs.
 ;;
